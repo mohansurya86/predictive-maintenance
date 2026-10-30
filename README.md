@@ -115,5 +115,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 - Consider threshold tuning and cost-sensitive learning as alternatives to oversampling.
 
 ## Author
-## Meesala Mohan Surya Sai
-## Intern ID: CITS9842
+Meesala Mohan Surya Sai
+Intern ID: CITS9842
