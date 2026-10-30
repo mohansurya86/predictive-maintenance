@@ -114,5 +114,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboos
 - The final section (Decision Paths / tree interpretability) is a work in progress.
 - Consider threshold tuning and cost-sensitive learning as alternatives to oversampling.
 
-Author
+##Author
 Meesala Mohan Surya Sai
